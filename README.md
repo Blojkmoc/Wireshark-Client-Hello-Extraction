@@ -6,3 +6,5 @@ Tool that uses Pyshark to extract Client Hello from all TCP streams and also rec
 
 Run the Python file with the pcap directory changed accordingly
 Obtains a csv file for further investigation
+
+Wireshark must be installed
